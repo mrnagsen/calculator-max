@@ -1,2 +1,2 @@
 # calculator-max
-calxulator using html,cssand javascript
+calculator using html,cssand javascript
